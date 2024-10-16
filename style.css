@@ -38,3 +38,10 @@ input{
     margin: 5px;
     max-width: 200px;
 }
+
+.cuadrado{
+    
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
